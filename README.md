@@ -1,1 +1,1 @@
-# falls
+This file contains the R code and data files to perform the main and subgroup analyses as published in: Heinzmann J, Rossen ML, Efthimiou O, Baumgartner C, Wertli MM, Rodondi N, Aubert CE, Liechti FD. Risk factors for in-hospital falls among medical patients - A systematic review and meta-analysis. Archives of Physical Medicine and Rehabilitation. 2024 (manuscript in print).
